@@ -1,0 +1,18 @@
+#include<iostream>
+using namespace std;
+
+class Point
+{
+private:
+long area;
+long volume;
+
+public:
+long Area(long length,long width);
+long Volume(long length,long width,long bredth);
+
+}
+
+int main()
+{
+reutrn 0;
