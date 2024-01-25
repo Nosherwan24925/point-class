@@ -13,6 +13,13 @@ long Volume(long length,long width,long bredth);
 
 }
 
+long Point::Volume(long longth,long width,long bredth)
+{
+
+volume=length*width*bredth;
+return volume;
+}
+
 int main()
 {
 reutrn 0;
